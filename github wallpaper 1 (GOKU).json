@@ -1,86 +1,12 @@
 {
-   "packagename": "com.Syaztheone.wallpaper_Anime_DLZ",
+   "packagename": "com.zayviusdigital.wallpaper_json",
    "unity_ads": "3970843",
    "kang_zayvius": [
       {
          "id": "1",
          "link_images": "https://fsb.zobj.net/crop.php?r=dOsnC9FfaZGBYjIILuBfoF5GaHM-l8mmdMFz1hyFFO_5ZkmZAhA2Apmfzy_dG_EHm3OsktFq5_NGqtNkxO-Va0VB6vbadTHE1A2f549hdItT5qdl7NO1fKgzCvdQTi536j-zGCWNZuNItEhy"
       },
-      {
-         "id": "2",
-         "link_images": "https://fsb.zobj.net/crop.php?r=Ro8wEHrj5WH5xpdX9Jmx6jrWcwCHOe9UkDpq7SqJHFsLucMt-9JnY-NHer6XE5sOowZieCXX7q0XDk6GKxmNR36Tp76aJoaE_qJQuJWZI5Bjnk0kl3vyDgPQTevIT9Bt4aTHcx9LDKszoAZY"
-      },
-      {
-         "id": "3",
-         "link_images": "https://fsa.zobj.net/crop.php?r=wse3qtJpOUqRdnKO5imhaqaPuZnukpVDOLNmf3xVQUz75LdboydqldtofvxApaQvew1LwJGwevjKxIHG4ZeOKZoxbIGK_BBlxUUObnAKzYKKa_XKKm79qOqAewRjb6LL2tr0Xo5AQnVuXzlt"
-      },
-      {
-         "id": "4",
-         "link_images": "https://fsa.zobj.net/crop.php?r=US04uWUcZVxu_grnCLnP4WeEIKJ2bE_oEFhsaL5kwK3Gku2yyemYRog9EM1Oo0RJeQ3yu4ruPq35igwfaeVC4glA1aSl5yAR5ZE3VT4_lOeA1G3fYHrvOO1Yv8InIPC_72TQ7IO_XL7DRIg-"
-      },
-      {
-         "id": "5",
-         "link_images": "https://fsa.zobj.net/crop.php?r=nSuF0rzNqaDGFsTg929RfXd8_Rp0l-8W4dv72HFiKOQI8SePU0UjfTlamNPQxIn3vTHLLFGgvlKpwhBmiV3OTnVc5jTF8hWmbHrY0XmMjLH5qJkol0X_XRbyyCCou_Me-5ULxpH5sgH3hAPz"
-      },
-      {
-         "id": "6",
-         "link_images": "https://fsb.zobj.net/crop.php?r=dOsnC9FfaZGBYjIILuBfoF5GaHM-l8mmdMFz1hyFFO_5ZkmZAhA2Apmfzy_dG_EHm3OsktFq5_NGqtNkxO-Va0VB6vbadTHE1A2f549hdItT5qdl7NO1fKgzCvdQTi536j-zGCWNZuNItEhy"
-      },
-      {
-         "id": "7",
-         "link_images": "https://fsb.zobj.net/crop.php?r=Drh0jGJqB7IP_7cvFQmrPMRdXleMjpY3TxgD7H5aa4X7GeCEj9Ct5_CdoVo2ZI6P2R3s3Cw56dGOJxrBQVtgVY-tQhgzBzzJP84h9WlnSd7IN3MUg-BQvWVE4UqGj81gCTai5hLeWQn8J5ts"
-      },
-      {
-         "id": "8",
-         "link_images": "https://fsb.zobj.net/crop.php?r=6xqq91mjvYI703uDBvxhcPJuhREE2xT-GAxB0uvQdDdmFWC2exVCBayJyEllix_B-9BKljh-T67-cNr7Q5QFslR76eQpC3b38hrR2i1TsTzFezAebatn0KfyOwUgBwx9PlpRjTQLSC5GYgpH"
-      },
-      {
-         "id": "9",
-         "link_images": "https://fsa.zobj.net/crop.php?r=ByaU6AzeWP4bsBTYrt-9StCa3VhmNIv-eCAuCCWMdIIa2ok5307T9AlGCHluSOHJnD2PfKxb0dWVtpPzMDW9ZQpm83M3zqxUT4VZiE4k6v2K40w4SL0X61wr35cnJjxFq7FF0Wb8VVTrBd2L"
-      },
-      {
-         "id": "10",
-         "link_images": "https://fsb.zobj.net/crop.php?r=8e3ZkU2VOQMCDhR3fx_bWsE-bnl7obXcfleXJESodsHJYoTIm1K5VNhKrQXqTvprq87cj41-w0x00c2MYRXTOOpRRgbQXuw5MWEWUn4_wMnQamBe1hxnnXtAVVlHbyqg0S1xiDw_CY_uTZ7n"
-      },{
-         "id": "11",
-         "link_images": "https://fsb.zobj.net/crop.php?r=8C-_TfcblKVMXlUf0mhyV9AMaV-Ku4_VZV6QCiXnFJn38iV9SGoxAYP5SjB3U85aWG5ueIr2dMxy-SeYWLM3omBW-rZvDz5CxPmBbN-6XAxjgxAwsF1rk0lyrcAItVBpTo7hB9cHroahodpY"
-      },
-      {
-         "id": "12",
-         "link_images": "https://fsb.zobj.net/crop.php?r=qGDosz7buQb159SUrCGq4SJB8AiNTFHGgvHNmkkQAGk65nArmLqfjJJ1i42cDITFTubKfWSrmxvg3O9sIBd4Mb4Ys3JERHeEVry6vBEaqFLwdyX39FMizKcJSmOtcFPQ4FGP0hT6660ULQN8"
-      },
-      {
-         "id": "13",
-         "link_images": "https://fsb.zobj.net/crop.php?r=E64ncv9b5-ae1YWgT9nlQjNGyD1rBCszs_VUJYdCsENJCbOPhEV6xB-jul4zakoMQZkge2Zf3B3cdLivWvqCTfIIz6AGfx3MHhbDUexGgiUYDANiR_95G4qm9-lyeN2nn9xFqHvg2GAVoCYh"
-      },
-      {
-         "id": "14",
-         "link_images": "https://fsa.zobj.net/crop.php?r=MfzrawVOC8ForvGo4b3bFtyVI0J09d7VKuLxb1NGXOO6LIXZL1GkdLrxRWEzVJfOAvTYkAqGx_3L7ZzZPDxlU23eK-xWQGwhJ6SCiWfeouC0b8GQD5qRvXqrJqD4Ohiye7yS51Uuk8hToCGj"
-      },
-      {
-         "id": "15",
-         "link_images": "https://fsa.zobj.net/crop.php?r=RvIlVfbLCP7p8aPMLGqcwCfDBqw4pvss1LkhPA_QvN3rSxtLrx9d5wmgM5Ims1ICsDDlYIXn9oP6ySslJZe3vD8VJLgnZVjrKmyGN-j2RZfy-xCATyXJh4Q9ua2rFKJoiZFQX457HCFVryBJ"
-      },
-      {
-         "id": "16",
-         "link_images": "https://fsb.zobj.net/crop.php?r=4P_02BiBsBCCWriolahvbfltx8TDQGJZOEsctxnSIkpws0AwsyET_TN7jso3MAMsjZXD77jgP7mkhcZiK5FxUt_UBVn4rbi7gh1MJzkx5NeNSGQ3QaZBriNrkaFMgbTyyKJOrjAyHqjAKjlO"
-      },
-      {
-         "id": "17",
-         "link_images": "https://fsa.zobj.net/crop.php?r=Qm8pQiIMfUGKR5j31XKqvoTKmUarHiXsTJNX2Yo3MXKLkwEul95ua5S4FhzJs01tpsHqXxT8wiIY0z5ZFPIftEURCEelpof4en3kWuWpmEXu-DOF8G4v59L9-cKJuN-pLVA4Uq9Wtqth2cSU"
-      },
-      {
-         "id": "18",
-         "link_images": "https://fsa.zobj.net/crop.php?r=yPs_7U5y5q1FOMTd9nQG8f9-tfg_BiOOdGX4jw9mjXZBf6Zw1yJew4Q7ifwEj4MFr01f59qWYkUC6hG2dHYLr9miKTgs4avzE1IwbDIKzLyicwjHcHoi77s7yUQGwFSMVwqlID0iXrYFf8QF"
-      },
-      {
-         "id": "19",
-         "link_images": "https://fsa.zobj.net/crop.php?r=m_QcYsaKfqL2obS24N4IxIOoL6PysdUxwbwgcBk30zliYBX_8I6McZ-g4qbAAvppnvJU_vY03c6H9MsEj57lCTF2wuglkCDb2UfAQ3eSwo4ejdZM3d3SeNWnMafE204KLis8hf4hCn49PXyD"
-      },
-      {
-         "id": "20",
-         "link_images": "https://fsb.zobj.net/crop.php?r=B4yJxG06ySqWiFSR9PPNSt7GHOrEd9PnQUpDALA4ItFpnxcoSCGLB-zRbRBOtK53Vszh94hZ5ZNZx-m1G-29Na5oUtTWxocxgUnXmJSjKNbR8Cdq1VQsHZCRDkddPMKtomQ6nFvUJU9Ythif"
-      },
+     
 	  
    ]
 }
